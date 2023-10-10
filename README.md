@@ -1,21 +1,21 @@
 # API Name
-# JSON POST with Database Integration
+### JSON POST with Database Integration
 
 
 
-## API
-# API endpoint that will insert and extract data in the database
+## API Description
+### API endpoint that will insert and extract data in the database
 
 
 
-## API
+## API Endpoints
 
 
 
  
 
 
-## Request
+## Request Payload
 
 
  
@@ -51,4 +51,4 @@
  
 
 
-## Contact
+## Contact Information
