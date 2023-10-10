@@ -1,6 +1,6 @@
-# **API Name**
+# API Name
 
-### JSON POST with Database Integration
+JSON POST with Database Integration
 
 
 
