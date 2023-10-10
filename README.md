@@ -1,41 +1,43 @@
-# API Name
+# **API Name**
+
 ### JSON POST with Database Integration
 
 
 
-## API Description
+# API Description
+
 ### API endpoint that will insert and extract data in the database
 
 
 
-## API Endpoints
+# API Endpoints
 
 
 
  
 
 
-## Request Payload
+# Request Payload
 
 
  
 
 
-## Response
-
-
-
- 
-
-
-## Usage
+# Response
 
 
 
  
 
 
-## License
+# Usage
+
+
+
+ 
+
+
+# License
 
 
 
@@ -44,11 +46,11 @@
  
 
 
-## Contributors
+# Contributors
 
 
 
  
 
 
-## Contact Information
+# Contact Information
