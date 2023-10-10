@@ -1,56 +1,19 @@
 # API Name
-
 JSON POST with Database Integration
 
+## API Description
+API endpoint that will insert and extract data in the database
 
+## API Endpoints
 
-# API Description
+## Request Payload
 
-### API endpoint that will insert and extract data in the database
+## Response
 
+## Usage
 
+## License
 
-# API Endpoints
+## Contributors
 
-
-
- 
-
-
-# Request Payload
-
-
- 
-
-
-# Response
-
-
-
- 
-
-
-# Usage
-
-
-
- 
-
-
-# License
-
-
-
-
-
- 
-
-
-# Contributors
-
-
-
- 
-
-
-# Contact Information
+## Contact Information
