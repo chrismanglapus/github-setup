@@ -79,19 +79,19 @@ API endpoint that will insert and extract data in the database
         }
 
 ## Usage
-1.Insert Data (postName):
-    • Insert in Body:
+1. Insert Data (postName):
+    - Insert in Body:
     {
         "lname": "yourlastname",
         "fname": "yourfirstname"
     }
 
-2.Extract Data (printName):
-    • Go to:
+2. Extract Data (printName):
+    - Go to:
         127.0.0.1/api/public/printName
 
-3.Update Data (updateName):
-    • Insert in Body:
+3. Update Data (updateName):
+    - Insert in Body:
         {
             "id": 1,
             "lname": "yourlnameupdated",
@@ -99,8 +99,8 @@ API endpoint that will insert and extract data in the database
         }
     NOTE: Replace the ID number matching what ID you want to replace, lname and fname to whatever you want.
 
-3.Delete Data (deleteName):
-    • Insert in Body:
+3. Delete Data (deleteName):
+    - Insert in Body:
         {
             "id":2
         }
@@ -108,9 +108,9 @@ API endpoint that will insert and extract data in the database
 
 ## License
 This API is released under the ___ Licence
--You are free to use this API for both personal and commercial projects.
--You may modify, distribute, and sublicense this API as long as you follow the terms of the XYZ License.
--There is no warranty or liability. Use this API at your own risk.
+- You are free to use this API for both personal and commercial projects.
+- You may modify, distribute, and sublicense this API as long as you follow the terms of the XYZ License.
+- There is no warranty or liability. Use this API at your own risk.
 
 ## Contributors
 
